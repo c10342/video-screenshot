@@ -1,26 +1,26 @@
 {
   "name": "video-screenshot",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "视频封面工具",
   "main": "index.js",
   "keywords": [
     "video",
     "screenshot"
   ],
-  "homepage": "https://github.com/c10342/media-player",
+  "homepage": "https://github.com/c10342/video-screenshot",
   "publishConfig": {
     "access": "public"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/c10342/media-player"
+    "url": "https://github.com/c10342/video-screenshot"
   },
   "author": "c10342",
   "license": "MIT",
   "bin": {
     "video-screenshot": "index.js"
   },
-  "devDependencies": {
+  "dependencies": {
     "commander": "^8.1.0",
     "del": "^6.0.0",
     "fluent-ffmpeg": "^2.1.2",
