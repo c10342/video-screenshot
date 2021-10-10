@@ -1,11 +1,11 @@
-# video-screenshot
+# video-screenshot-tool
 
 视频缩略图生成工具，并合成一张完整的精灵图
 
 ## 安装
 
 ```bash
-npm i video-screenshot  -g
+npm i video-screenshot-tool  -g
 ```
 
 ## 使用
