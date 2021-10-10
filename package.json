@@ -1,5 +1,5 @@
 {
-  "name": "video-screenshot",
+  "name": "video-screenshot-tool",
   "version": "1.0.0",
   "description": "视频封面工具",
   "main": "index.js",
